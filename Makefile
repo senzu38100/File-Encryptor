@@ -1,2 +1,2 @@
 all:
-	gcc sgn.c -o encryptor
+	gcc fse.c -o encryptor
